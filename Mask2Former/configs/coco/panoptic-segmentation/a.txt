@@ -1,1 +1,0 @@
-python demo.py --config-file ../configs/coco/panoptic-segmentation/maskformer2_R50_bs16_50ep.yaml  --input input.jpg input2.jpg [--other-options] --opts MODEL.WEIGHTS /media/lyb/CE7258D87258C73D/linux/github/contrasttest/Mask2Former-main/demo/model_final_94dc52.pkl
